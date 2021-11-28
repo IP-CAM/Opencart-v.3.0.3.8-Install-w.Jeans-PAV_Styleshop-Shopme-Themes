@@ -1,0 +1,84 @@
+/* ----------------------------------------------------
+	FIRST COLORS
+------------------------------------------------------- */ 
+	
+	.blog-top p a,
+	.navbar-brand i,
+	.question-box span,
+	.navbar-default .navbar-brand:hover,
+	.navbar-default .navbar-brand:focus {
+		color: #cc7c3a;
+	}
+
+	blockquote,
+	.glass-case ul li.gc-active, .glass-case ul li.gc-active:hover,
+	.btn-white:hover,
+	.btn-white:focus,
+	.form-control:not([readonly]):focus {
+	  	border-color: #cc7c3a !important;
+	}
+
+	.buttons a,
+	.visible-buttons a,
+	.flex-control-paging li a,
+	.flex-caption,
+	.countbadge,
+	.btn-primary {
+		border-color:#cc7c3a;
+		background-color: #cc7c3a;
+   
+	}
+
+/* ----------------------------------------------------
+	SECOND COLORS
+------------------------------------------------------- */ 
+
+	.pagination > li > a:hover,
+	.pagination > li > span:hover,
+	.pagination > li > a:focus,
+	.pagination > li > span:focus,
+	mark,
+	.portfolio-item .visible-buttons a,
+	.visible-buttons a:hover,
+	.visible-buttons a:focus,
+	.owl-custom .owl-controls .owl-nav [class*=owl-]:hover,
+	.owl-custom .owl-controls .owl-nav [class*=owl-]:focus,
+	.flex-caption:hover,
+	.btn-primary:hover,
+	.btn-primary:focus {
+		background-color: #b76725;
+		border-color:#b76725;
+	}
+	.shop-tabbed .nav-tabs > li > a:hover,
+	.shop-tabbed .nav-tabs > li > a:focus,
+	.common-height small,
+	.btn-white:hover,
+	.btn-white:focus,
+	.section-footer.bg-inverse .list-inline > li a:focus, 
+	.section-footer.bg-inverse .list-inline > li a:hover {
+		color:#b76725;
+	}
+
+/* ----------------------------------------------------
+	IMPORTANT BLACK
+------------------------------------------------------- */ 
+	.gc-icon,
+	.custom-magnifier,
+	p.drop-caps.full:first-child::first-letter,
+	.sidebar-header,
+	.btn-default {
+		background-color: #121212;
+		border-color:#121212;
+	}
+
+	.btn-default:focus,
+	.btn-default:hover {
+		background-color: #212121;
+		border-color:#212121;
+	}
+	
+	
+/* ----------------------------------------------------
+	customised
+------------------------------------------------------- */ 	
+	
